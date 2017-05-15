@@ -1,0 +1,6 @@
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\RepositorioPrueba\testApp\testApp\obj\Debug\testApp.pdb
